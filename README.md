@@ -9,16 +9,15 @@ Website có giao diện đơn giản, dễ sử dụng và phù hợp cho sinh v
 
 ## 📁 Cấu trúc thư mục
 TKWEB/
-|── .vscode
-│── index.html
-│── CSS
-|    |── style.css
-|── picture
-|   |── LogoTVU.png
-|   |── canhan.jpg
-|   |── Vitri.jpg
-│── README.md
-
+├── .vscode/
+├── index.html
+├── CSS/
+│   └── style.css
+├── picture/
+│   ├── LogoTVU.png
+│   ├── canhan.jpg
+│   └── Vitri.jpg
+└── README.md
 
 ---
 
