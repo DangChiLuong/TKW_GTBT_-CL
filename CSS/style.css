@@ -193,31 +193,3 @@ footer {
     padding: 15;
     margin-top: 20px;
 }
-
-/* Responsive */
-@media (max-width: 768px) {
-    .header {
-        flex-direction: column;
-        text-align: center;
-        padding: 10px;
-    }
-    
-    .navbar {
-        gap: 15px;
-    }
-    
-    .intro .container,
-    .lienhe .contact-content {
-        flex-direction: column;
-        text-align: center;
-    }
-    
-    .intro .avatar {
-        width: 150px;
-        height: 150px;
-    }
-    
-    .section {
-        padding: 10px;
-    }
-}
